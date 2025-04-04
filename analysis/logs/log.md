@@ -81,8 +81,6 @@ Excited to test AI-driven responses for locked/unlocked fields.
 **Thorn:**  
 Needed to sync frequently with Jasdeep to ensure context logic matched backend field states.
 
-**Additional Thought:**  
-We should consider building a mini test suite for these editable fields.
 
 ---
 
