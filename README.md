@@ -1,36 +1,62 @@
-# Project compendium template
+# AI in Medical Interviewing – VIP Capstone Project (INFO 698)
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-## A compendium of code, data, and author's manuscript accompanying the manuscript:
+This repository documents the work completed by **Shashwat Singh** and **Jasdeep Singh Jhajj** for the INFO 698 Capstone, under the **VIP project: AI in Medical Interviewing**, mentored by **Dr. Allan Hamilton** and **Dr. Win Burleson**.
 
-#### TBD
+---
 
+## 📘 Project Overview
 
-## Overview
-This repository is organized as a reproducible research compendium. Future updates to this compendium will include a Dockerfile and Binder Container
+This project enhances an existing AI-powered medical interviewing platform. Our focus has been on improving:
+- AI prompt design and regeneration
+- Context accumulation for coherent multi-turn responses
+- UI/UX for a user-friendly interaction layer
+- Field- and table-level AI integration
+- Backend features like locking and content control
 
-## File Organization
+This work builds on a pre-existing project, and we've adapted our efforts accordingly to focus on feature development and enhancement rather than building from scratch.
 
-    analysis/
-    |
-    ├── logs/
-    │   └── log.md          # log of any progress or relevant information
-    |
-    ├── figures/            # location of the figures produced for the manuscript
-    |
-    ├── data/
-    |   ├── rawData/        # data obtained from elsewhere
-    │   └── derivedData/    # data generated from rawData/ and scripts.*
-    |   
-    └── supplementaryMaterials/
-        ├── supplementaryFigures/     
-        |                   # supplementary figures for the main manuscript
-        └── supplementaryTables/      
-                            # supplementary tables for the main manuscript 
-    
-    R/Python/etc.           # scripts to run in the following order (also see associated README.md)
-        └── script.*        # hypothetical script used to wrangle the raw data, produce figures, analyses, and supplementary materials
+---
 
-        
+## 📁 Repository Structure
+```
+AI-MEDICAL-INTERVIEWING
+├── analysis
+│   ├── data
+│   │   ├── DO-NOT-EDIT-ANY-FILES-IN-HERE.md
+│   │   └── README.md
+│   ├── logs
+│   │   ├── log.md
+│   │   └── references.bib
+│   └── proposal
+│       └── ProjectProposal.pdf
+├── src
+│   └── README.md
+├── CONDUCT.md
+├── DESCRIPTION
+├── LICENSE
+└── README.md
+```
 
+## 👥 Contributors
+
+- **Shashwat Singh**  
+  Frontend UI development, prompt engineering, field/table AI integration, backend locking features, proposal writing
+
+- **Jasdeep Singh Jhajj**  
+  Prompt regeneration logic, multi-column context retention, virtual patient design, testing and debugging
+
+---
+
+##  Key Documents
+
+- 📋 [Weekly Logs](analysis/logs/log.md)
+- 📝 [Signed Project Proposal (PDF)](analysis/proposal/ProjectProposal.pdf)
+
+---
+
+##  Notes
+
+- This repo is part of the **INFO-698-InfoSci-Capstone** GitHub organization.
+- User research and earlier data collection were handled by the broader VIP team prior to our involvement.
