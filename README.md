@@ -8,13 +8,12 @@ This repository documents the work completed by **Shashwat Singh** and **Jasdeep
 
 ## 📘 Project Overview
 
-This project enhances an existing AI-powered medical interviewing platform. Our focus has been on improving:
-- AI prompt design and regeneration
-- Context accumulation for coherent multi-turn responses
-- UI/UX for a user-friendly interaction layer
-- Field- and table-level AI integration
-- Backend features like locking and content control
-
+This project enhances an existing AI-powered medical interviewing platform to improve automated patient interactions and structured response generation. Our focus has been on improving:
+- AI Prompt Optimization: Refining prompt structures for more accurate and medically relevant AI responses.
+- Context Accumulation: Enabling AI to retain and recall prior interactions for multi-turn conversations.
+- Field- & Table-Level AI Integration: Implementing context-aware AI response generation based on structured form inputs.
+- User Experience (UI/UX): Enhancing the interface for smoother user interactions and feedback.
+- Backend Features: Implementing locking mechanisms to control AI-generated content within editable medical forms.
 This work builds on a pre-existing project, and we've adapted our efforts accordingly to focus on feature development and enhancement rather than building from scratch.
 
 ---
@@ -27,7 +26,8 @@ AI-MEDICAL-INTERVIEWING
 │   │   ├── DO-NOT-EDIT-ANY-FILES-IN-HERE.md
 │   │   └── README.md
 │   ├── logs
-│   │   ├── log.md
+│   │   ├── log-JasdeepSinghJhajj.md
+│   │   ├── log-ShashwatSingh.md
 │   │   └── references.bib
 │   └── proposal
 │       └── ProjectProposal.pdf
