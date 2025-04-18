@@ -103,3 +103,43 @@ Some locked cells still allowed AI overwrite—needs one more round of validatio
 Would be helpful to assign clear QA test cases next time to streamline validation.
 
 ---
+
+## Week 13 – April 8–14, 2025
+
+### Shashwat Singh
+
+**Number of hours:** 10
+
+**Rose:**  
+Successfully integrated table-level AI generation with prompt chaining logic. It was rewarding to see smooth, consistent outputs across rows during test runs.
+
+**Bud:**  
+Looking forward to fine-tuning AI outputs and finalizing the poster layout for iShowcase.
+
+**Thorn:**  
+Faced some issues with token limits and cutoff responses while handling multi-row AI generation. Still needs handling for overflow cases.
+
+**Additional Thought:**  
+Consider breaking long prompts into chunks and caching sub-responses where appropriate.
+
+---
+
+## Week 14 – April 15–21, 2025
+
+### Shashwat Singh
+
+**Number of hours:** 11
+
+**Rose:**  
+Finalized feature testing for table-level AI and completed polishing of editable field validations. Also worked on final poster content and layout structure.
+
+**Bud:**  
+Excited to present at iShowcase and gather real user feedback during the demo.
+
+**Thorn:**  
+Synchronizing poster design edits between multiple team members delayed final layout progress slightly.
+
+**Additional Thought:**  
+Might be helpful to assign poster sections next time to avoid overlapping edits and streamline formatting.
+
+---
