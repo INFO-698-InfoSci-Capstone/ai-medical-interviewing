@@ -143,3 +143,20 @@ Synchronizing poster design edits between multiple team members delayed final la
 Might be helpful to assign poster sections next time to avoid overlapping edits and streamline formatting.
 
 ---
+## Week 15 – April 22–28, 2025
+
+### Shashwat Singh
+
+**Number of hours:** 10
+
+**Rose:**  
+Finalized poster and presentation materials for iShowcase. Also completed and merged the lock functionality to the main branch after approval — a key feature milestone.
+
+**Bud:**  
+Looking forward to presenting at iShowcase on May 7th and sharing the project’s impact with peers and faculty.
+
+**Thorn:**  
+Balancing final project adjustments and poster preparation has been slightly challenging with tight deadlines.
+
+**Additional Thought:**  
+Preparing the presentation has helped in refining key messaging and focusing on the most impactful aspects of the project.
