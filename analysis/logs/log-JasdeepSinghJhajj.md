@@ -102,3 +102,43 @@ Looking forward to finalizing AI-driven adjustments for data structuring within 
 Ensuring consistency between field-level and table-level AI logic is proving challenging, some mismatches still need fine-tuning.
 
 ---
+
+## Week 13 – April 8–14, 2025
+
+### Jasdeep Singh Jhajj
+
+**Number of hours:** 11
+
+**Rose:**  
+Successfully implemented form-level context accumulation, enabling the AI to reference and build upon all previously generated data across the entire form for more consistent, context-aware responses.
+
+**Bud:**  
+Looking forward to finalizing the poster layout for iShowcase and testing full-form sequential generations.
+
+**Thorn:**  
+Encountered challenges managing prompt size and token limits when combining full-form context; required careful trimming of less critical details.
+
+**Additional Thought:**  
+Considering breaking larger context blocks into modular prompts to reduce overflow and improve maintainability.
+
+---
+
+## Week 14 – April 15–21, 2025
+
+### Jasdeep Singh Jhajj
+
+**Number of hours:** 10
+
+**Rose:**  
+Completed the full integration of form-level context collection into the AI pipeline, ensuring the system now produces consistent outputs that account for previously generated data across multiple tables and sections.
+
+**Bud:**  
+Excited to prepare the final poster content and layout for iShowcase and test the combined demo setup.
+
+**Thorn:**  
+Faced occasional mismatches between accumulated context and live field updates, requiring refinement of backend logic to sync field states accurately.
+
+**Additional Thought:**  
+Adding automated validation checks for context alignment could improve reliability as we scale to more complex input forms.
+
+---
