@@ -142,3 +142,22 @@ Faced occasional mismatches between accumulated context and live field updates, 
 Adding automated validation checks for context alignment could improve reliability as we scale to more complex input forms.
 
 ---
+
+## Week 15 – April 22–28, 2025
+
+### Jasdeep Singh Jhajj
+**Number of hours:** 10
+
+**Rose:**
+Finalized poster and presentation materials for iShowcase. Tested the functionality for integration test with other services.
+
+**Bud:**
+Looking forward to presenting at iShowcase on May 7th and sharing the project’s impact with peers and faculty.
+
+**Thorn:**
+Balancing final project adjustments and poster preparation has been slightly challenging with tight deadlines.
+
+**Additional Thought:**
+Preparing the presentation has helped in refining key messaging and focusing on the most impactful aspects of the project.
+
+---
